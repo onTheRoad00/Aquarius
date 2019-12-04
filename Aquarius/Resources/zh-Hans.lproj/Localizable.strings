@@ -8,3 +8,12 @@
 
 "Drag the Podfile.lock here!" = "将“Podfile.lock”拖到这里";
 "Nothing" = "什么也没有~~";
+
+"Drag the Packge here" = "将安装包拖到此处";
+"Processing" = "处理中...";
+"Get cache path failed." = "获取缓存目录失败";
+"Fild not exists" = "文件不存在";
+"Unzip failed." = "解压失败";
+"Faild to crate result file." = "结果保存失败。";
+"Error!" = "错误";
+"Got it!" = "我知道了！";
